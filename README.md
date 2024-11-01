@@ -86,9 +86,19 @@ This dataset will be used to analyze and predict heart disease presence in patie
 
 ## Setup Instructions
 
-1. **Clone the Repository**:
+1. Clone the Repository
    ```bash
    git clone https://github.com/Johnnysnipes90/Heart-Disease-Prediction.git
    cd Heart-Disease-Prediction
 
    cd Heart-Disease-Prediction
+
+2. Create Virtual Environment
+   source venv/Scripts/activate  # Activate on Windows
+3. Install Dependencies
+   pip install -r requirements.txt
+4. After setting up, run the code in src/ to preprocess data, train models, and evaluate performance.
+
+
+Usage
+This project is designed to assist data coordinators, data scientists, and healthcare professionals in leveraging machine learning for health-related risk prediction. Follow the Jupyter notebooks and scripts provided in notebooks/ and src/ folders for data exploration, feature engineering, model training, and analysis.
