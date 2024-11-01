@@ -100,5 +100,5 @@ This dataset will be used to analyze and predict heart disease presence in patie
 4. After setting up, run the code in src/ to preprocess data, train models, and evaluate performance.
 
 
-Usage
+# Usage Instruction
 This project is designed to assist data coordinators, data scientists, and healthcare professionals in leveraging machine learning for health-related risk prediction. Follow the Jupyter notebooks and scripts provided in notebooks/ and src/ folders for data exploration, feature engineering, model training, and analysis.
